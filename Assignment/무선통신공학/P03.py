@@ -1,5 +1,5 @@
 """
-ALOHA 구현
+ALOHA 구현 
 
 - Pure ALOHA
 - Slotted ALOHA
